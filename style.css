@@ -2,3 +2,27 @@ p {
     color: blue;
     text-align: right;
 }
+
+h1 {
+    color: azure;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h4 {
+    color: red;
+}
+
+h5 {
+    color: green;
+}
+
+h6 {
+    color:orange;
+}
