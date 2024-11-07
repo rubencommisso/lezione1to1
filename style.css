@@ -39,3 +39,8 @@ h6 {
     padding: 10px;
     text-align: center;
 }
+
+.testclass2 {
+    letter-spacing: 3px;
+    text-decoration:line-through;
+}
