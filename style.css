@@ -31,3 +31,11 @@ h6 {
     background-color: purple;
     padding: 10px;
 }
+
+.testclass {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
