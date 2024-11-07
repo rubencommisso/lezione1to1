@@ -45,6 +45,12 @@ h6 {
     text-decoration:line-through;
 }
 
-* {
+/* {
     box-sizing: border-box;
+} /*/
+
+.sameclass {
+    background-color: greenyellow;
+    display: block;
+    width: 100%
 }
