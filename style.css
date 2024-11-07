@@ -1,6 +1,6 @@
 p {
     color: blue;
-    text-align: right;
+    /*text-align: right;*/
 }
 
 h1 {
@@ -53,4 +53,14 @@ h6 {
     background-color: greenyellow;
     display: block;
     width: 100%
+}
+
+a {
+    color: blue;  
+    text-decoration: none;  
+}
+
+
+a:hover {
+    color: red;  
 }
