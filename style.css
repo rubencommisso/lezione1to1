@@ -76,3 +76,11 @@ ul li:last-child::after {
     font-style: italic; 
     color: blue; 
 }
+
+#firstid {
+    color: green;
+}
+
+.firstclass {
+    color: yellow;
+}
