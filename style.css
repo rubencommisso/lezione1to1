@@ -93,3 +93,7 @@ ul li:last-child::after {
 .rgbcolor{
     color: rgb(193, 101, 101);
 }
+
+.color10{
+    color: #000;
+}
