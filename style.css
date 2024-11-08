@@ -102,3 +102,7 @@ ul li:last-child::after {
     color: rgb(128, 9, 0);
     opacity: 0.3;
 }
+
+.colorname {
+    color: tomato;
+}
