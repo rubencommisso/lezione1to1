@@ -84,3 +84,8 @@ ul li:last-child::after {
 .firstclass {
     color: yellow;
 }
+
+.divclass {
+    text-align: center;
+    color: blue;
+}
