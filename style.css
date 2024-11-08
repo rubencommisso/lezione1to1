@@ -90,10 +90,15 @@ ul li:last-child::after {
     color: blue;
 }
 
-.rgbcolor{
+.rgbcolor {
     color: rgb(193, 101, 101);
 }
 
-.color10{
+.color10 {
     color: #000;
+}
+
+.colortrasparent {
+    color: rgb(128, 9, 0);
+    opacity: 0.3;
 }
