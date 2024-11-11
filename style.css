@@ -106,3 +106,11 @@ ul li:last-child::after {
 .colorname {
     color: tomato;
 }
+
+.quadrato1 {
+    width: 10%; /* Larghezza desiderata in percentuale */
+            padding-top: 10%; /* Padding-top uguale alla larghezza per ottenere un quadrato */
+            background-color: lightblue;
+            position: relative;
+}
+
