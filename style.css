@@ -4,7 +4,7 @@ p {
 }
 
 h1 {
-    color: azure;
+    color: rgb(14, 55, 216);
 }
 
 h2 {
@@ -108,9 +108,16 @@ ul li:last-child::after {
 }
 
 .quadrato1 {
-    width: 10%; /* Larghezza desiderata in percentuale */
-            padding-top: 10%; /* Padding-top uguale alla larghezza per ottenere un quadrato */
-            background-color: lightblue;
-            position: relative;
+    width: 10%; 
+    padding-top: 10%; 
+    background-color: lightblue;
+    position: relative;
+}
+
+.quadrato2 {
+    width: 130px;
+    padding-top: 130px;
+    background-color: chartreuse;
+    position: relative;
 }
 
