@@ -65,17 +65,19 @@ a:hover {
     color: red;  
 }
 
+/* 
 ul li:last-child {
     font-weight: bold; 
     color: red; 
-}
+} 
 
 
 ul li:last-child::after {
     content: "ciao";
     font-style: italic; 
     color: blue; 
-}
+} 
+*/
 
 #firstid {
     color: green;
@@ -143,4 +145,6 @@ ul li:last-child::after {
     border: 1px dashed;
 }
 
-
+.liclass {
+    display: inline-block;
+}
