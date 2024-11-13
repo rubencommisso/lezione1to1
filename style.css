@@ -139,6 +139,7 @@ ul li:last-child::after {
 
 .divp {
     padding: 50px;
+    margin: 20px;
 }
 
 
