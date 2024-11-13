@@ -121,3 +121,21 @@ ul li:last-child::after {
     position: relative;
 }
 
+.contenitor {
+    font-size: 18px;
+}
+
+#p7rem {
+    color: brown;
+    font-size: 7rem;
+}
+
+#p7em {
+    color: orange;
+    font-size: 7em;
+}
+
+/* 7em dimensione maggiore di 7rem */
+
+
+
