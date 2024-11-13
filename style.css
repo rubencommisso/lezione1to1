@@ -137,5 +137,8 @@ ul li:last-child::after {
 
 /* 7em dimensione maggiore di 7rem */
 
+.divp {
+    padding: 50px;
+}
 
 
