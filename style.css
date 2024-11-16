@@ -181,3 +181,17 @@ ul li:last-child::after {
 .clear {
     clear: both;
 }
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
+}
+
+.p1 {
+    padding: 10px;
+    background-color: lightblue;
+    text-align: center; 
+}
+
+
