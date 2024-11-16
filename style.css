@@ -173,3 +173,7 @@ ul li:last-child::after {
 .hidden {
     display: none;
 }
+
+.pright {
+    float: right;
+}
