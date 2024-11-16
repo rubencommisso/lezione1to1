@@ -10,7 +10,7 @@ body, html {
     top: 0;
     background-color: #333;
     padding: 10px 0;
-    z-index: 1000; /* Assicura che la navbar stia sopra gli altri contenuti */
+    z-index: 1000; 
     width: 100%;
 }
 
@@ -27,7 +27,7 @@ body, html {
 }
 
 .content {
-    padding: 80px 20px; /* Aggiunge padding per evitare che il contenuto sia coperto dalla navbar */
+    padding: 80px 20px; 
 }
 
 section {
@@ -49,3 +49,19 @@ section h2 {
     width: 100%;
 }
 
+
+.container {
+    position: relative;
+    min-height: 100vh; 
+}
+
+
+.quadrato {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;  
+    height: 100px; 
+    background-color: red; 
+    transition: opacity 0.3s ease-in-out; 
+}
