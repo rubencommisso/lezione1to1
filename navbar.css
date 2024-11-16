@@ -1,0 +1,39 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    padding: 10px 0;
+    z-index: 1000; /* Assicura che la navbar stia sopra gli altri contenuti */
+    width: 100%;
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+
+.navbar a:hover {
+    background-color: #575757;
+}
+
+.content {
+    padding: 20px;
+}
+
+section {
+    padding: 50px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+section h2 {
+    margin-top: 0;
+}
