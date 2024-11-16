@@ -6,6 +6,15 @@
     color: var(--colore-rosso); 
   }
 
+:root {
+    --padding-elemento: 20px; 
+}
+  
+.elemento {
+    border: 1px solid;
+    padding: var(--padding-elemento); 
+}
+
 p {
     color: blue;
     /*text-align: right;*/
