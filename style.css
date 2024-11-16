@@ -1,3 +1,11 @@
+:root {
+    --colore-rosso: #ff0000; 
+  }
+  
+  * {
+    color: var(--colore-rosso); 
+  }
+
 p {
     color: blue;
     /*text-align: right;*/
@@ -208,7 +216,7 @@ ul li:last-child::after {
   .containe {
     padding: 2px 16px;
   }
-  
+
   .close-btn {
     position: absolute;
     top: 10px;
@@ -223,3 +231,4 @@ ul li:last-child::after {
   .close-btn:hover {
     color: red; /* Cambia colore quando la X è hoverata */
   }
+
