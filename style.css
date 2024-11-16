@@ -177,3 +177,7 @@ ul li:last-child::after {
 .pleft {
     float: left;
 }
+
+.clear {
+    clear: both;
+}
