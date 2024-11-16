@@ -169,3 +169,7 @@ ul li:last-child::after {
 .block-span {
     display: block;
 }
+
+.hidden {
+    display: none;
+}
