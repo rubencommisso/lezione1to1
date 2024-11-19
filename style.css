@@ -243,6 +243,7 @@ ul li:last-child::after {
 
   .flex-container {
     display: flex;
+    flex-direction: column;
     background-color: DodgerBlue;
   }
   
