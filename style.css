@@ -260,12 +260,12 @@ ul li:last-child::after {
     font-size: 30px;
   }
 
-  .item1 {
+  /*.item1 {
     
-  }
+  }*/
 
   .item2 {
-
+    flex-grow: 1;
   }
 
   .item3 {
