@@ -241,3 +241,14 @@ ul li:last-child::after {
     color: red; /* Cambia colore quando la X è hoverata */
   }
 
+  .flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
