@@ -259,3 +259,15 @@ ul li:last-child::after {
     line-height: 75px;
     font-size: 30px;
   }
+
+  .item1 {
+    
+  }
+
+  .item2 {
+
+  }
+
+  .item3 {
+    flex-grow: 1;
+  }
