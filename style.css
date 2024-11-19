@@ -246,6 +246,7 @@ ul li:last-child::after {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center; /* comando per allineare elementi sul main axis*/
+    align-items: center; /* comando per allineare elementi su cross axis */
     background-color: DodgerBlue;
     height: 300px;
   }
