@@ -129,7 +129,7 @@ ul li:last-child::after {
 .quadrato1 {
     width: 10%; 
     padding-top: 10%; 
-    background-color: lightblue;
+    background-color: red;
     position: relative;
 }
 
