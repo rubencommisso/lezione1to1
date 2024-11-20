@@ -266,6 +266,7 @@ ul li:last-child::after {
 
   .item2 {
     flex-grow: 1;
+    flex-basis: 400px;
   }
 
   .item3 {
