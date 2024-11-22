@@ -278,7 +278,7 @@ ul li:last-child::after {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
     background-color: azure;
-    
+    gap: 10px;
     text-align: center;
     margin: 10px;
     line-height: 75px;
@@ -286,5 +286,9 @@ ul li:last-child::after {
 }
 
   .item {
+    background-color: yellow;
+  }
 
+  .merge {
+    grid-column: span 2;
   }
