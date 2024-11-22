@@ -275,8 +275,10 @@ ul li:last-child::after {
   }
 
  .container-grid {
+    /*height: 500px;*/
     display: grid;
     grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: 1fr 2fr;
     background-color: azure;
     gap: 10px;
     text-align: center;
