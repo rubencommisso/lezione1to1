@@ -295,3 +295,24 @@ ul li:last-child::after {
   .merge {
     grid-column: span 2;
   }
+
+.container-grid2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: darkgray;
+    gap: 10px;
+    text-align: center;
+    margin: 10px;
+    line-height: 75px;
+    font-size: 30px;
+    align-items: center;
+    border: solid black ;
+    width: 1000px;
+}
+
+#color {
+    color: darkgray;
+    grid-column: span 4;
+    border: solid black;
+    height: 200px;
+}
