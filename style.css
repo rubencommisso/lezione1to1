@@ -325,3 +325,17 @@ ul li:last-child::after {
     border: solid black;
     height: 200px;
 }
+
+.centopercento {
+    background-color: blue;
+    height: 1000px;
+    width: 100vw;
+    overflow-x: scroll;
+}
+
+.pdiv {
+    color: #000;
+    text-align: center;
+    line-height: 1000px;
+    font-size: 30px;
+}
