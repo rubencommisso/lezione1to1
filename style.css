@@ -394,7 +394,7 @@ ul li:last-child::after {
     box-sizing: border-box;
   }
 
-  /*button {
+  button {
     padding: 10px 15px;
     background-color: #007BFF;
     color: #fff;
@@ -405,7 +405,7 @@ ul li:last-child::after {
 
   button:hover {
     background-color: #0056b3;
-  }*/
+  }
 
   .form-group {
     margin-bottom: 15px;
