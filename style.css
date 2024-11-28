@@ -343,3 +343,30 @@ ul li:last-child::after {
     line-height: 1000px;
     font-size: 30px;
 }
+
+.container1 {
+    display: flex;
+    width: 300px; /* Larghezza del contenitore */
+    height: 50px;
+    border: 1px solid #000;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    
+}
+
+.itm {
+    flex-basis: 150px;
+}
+
+.items1 {
+    flex-shrink: 2;
+    background-color: lightcoral;
+  }
+  .items2 {
+    flex-shrink: 1;
+    background-color: lightblue;
+  }
+  .items3 {
+    flex-shrink: 1;
+    background-color: lightgreen;
+  }
