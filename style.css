@@ -410,13 +410,24 @@ ul li:last-child::after {
   .form-group {
     margin-bottom: 15px;
   }
+
   label {
     display: block;
     margin-bottom: 5px;
   }
+
   input[type="text"],
   textarea {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
+  }
+
+  .radio-group {
+    margin-bottom: 15px;
+  }
+  
+  .radio-group label {
+    display: inline-block;
+    margin-right: 10px;
   }
