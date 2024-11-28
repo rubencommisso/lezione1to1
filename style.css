@@ -426,8 +426,15 @@ ul li:last-child::after {
   .radio-group {
     margin-bottom: 15px;
   }
-  
+
   .radio-group label {
     display: inline-block;
     margin-right: 10px;
+  }
+
+  .checkbox-group {
+    margin-bottom: 15px;
+  }
+  .checkbox-group label {
+    display: inline-block;
   }
