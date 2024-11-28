@@ -407,7 +407,7 @@ ul li:last-child::after {
     background-color: #0056b3;
   }*/
 
-  /*.form-group {
+  .form-group {
     margin-bottom: 15px;
   }
   label {
@@ -419,4 +419,4 @@ ul li:last-child::after {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
-  }*/
+  }
